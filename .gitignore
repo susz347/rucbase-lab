@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+$RECYCLE.BIN/
+.claude/
